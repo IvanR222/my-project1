@@ -1,0 +1,29 @@
+
+#page-title {
+  font-size: 20px 10px;
+  color: rgb(40%, 60%, 90%);
+  padding: 0px auto;
+  margin: 0px auto;
+  border-radius: 10px;
+  border: 2px solid black;
+  background-color: red;
+  text-align: center;
+  font-size: larger;
+  display: block;
+}
+
+.logo {
+  border-radius: 100px;
+  border-color: green;
+  border-width: 2px;  
+  border-style: solid;
+  width: 100px;
+  height: 100px;
+  margin: 0px auto;
+  display: block;
+}
+
+.nav__link {
+ font-size: 20px;
+ text-align: center;
+}
